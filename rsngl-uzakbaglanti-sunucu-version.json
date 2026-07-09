@@ -1,7 +1,7 @@
 {
   "app": "RSNGL_UZAKBAGLANTI_SUNUCU",
   "platform": "windows",
-  "forceUpdate": true,
+  "forceUpdate": false,
   "allowedVersions": ["2"],
   "latestVersion": "2",
   "downloadUrl": "https://raw.githubusercontent.com/rsngluygulamalarimdestek/rsngl-uzakbaglanti-version/main/rsngl-uzakbaglanti-sunucu-version.json",
