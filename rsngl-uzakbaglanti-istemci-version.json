@@ -1,0 +1,9 @@
+{
+  "app": "RSNGL_UZAKBAGLANTI_ISTEMCI",
+  "platform": "windows",
+  "forceUpdate": true,
+  "allowedVersions": ["1.0.0.0"],
+  "latestVersion": "1.0.0.0",
+  "downloadUrl": "https://github.com/rsngluygulamalarimdestek/rsngl-uzakbaglanti-istemci-version",
+  "message": "Bu sürüm artık kullanılamaz. Devam etmek için güncel sürümü yükleyin."
+}
