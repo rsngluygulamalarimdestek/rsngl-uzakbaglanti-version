@@ -1,9 +1,9 @@
 {
   "app": "RSNGL_UZAKBAGLANTI_SUNUCU",
   "platform": "windows",
-  "minVersionCode": 2,
-  "latestVersionCode": 2,
   "forceUpdate": false,
+  "allowedVersions": ["1"],
+  "latestVersion": "1",
   "downloadUrl": "https://raw.githubusercontent.com/rsngluygulamalarimdestek/rsngl-uzakbaglanti-version/main/rsngl-uzakbaglanti-sunucu-version.json",
   "message": "Bu sürüm artık kullanılamaz. Devam etmek için güncel sürümü yükleyin."
 }
