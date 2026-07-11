@@ -1,7 +1,7 @@
 {
   "app": "RSNGL_UZAKBAGLANTI_ISTEMCI",
   "platform": "windows",
-  "minVersionCode": 2,
+  "minVersionCode": 1,
   "latestVersionCode": 2,
   "forceUpdate": false,
   "downloadUrl": "https://raw.githubusercontent.com/rsngluygulamalarimdestek/rsngl-uzakbaglanti-istemci-version/main/rsngl-uzakbaglanti-istemci-version.json",
